@@ -3,4 +3,4 @@
 
 name = input("your name>")
 print("hello, %s!!"%str(name))
-print("ENDO")
+print("ENDO-gui-change")
